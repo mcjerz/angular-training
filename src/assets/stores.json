@@ -1,0 +1,22 @@
+[
+  {
+    "storeNumber": 1000,
+    "driveThru": false
+  },
+  {
+    "storeNumber": 1001,
+    "driveThru": true
+  },
+  {
+    "storeNumber": 1002,
+    "driveThru": false
+  },
+  {
+    "storeNumber": 1003,
+    "driveThru": true
+  },
+  {
+    "storeNumber": 1004,
+    "driveThru": false
+  }
+]
