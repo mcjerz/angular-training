@@ -1,22 +1,27 @@
 [
   {
-    "storeNumber": 1000,
-    "driveThru": false
+    "id": 1000,
+    "name": "Store One",
+    "status": 1
   },
   {
-    "storeNumber": 1001,
-    "driveThru": true
+    "id": 1001,
+    "name": "Store Two",
+    "status": 1
+ },
+  {
+    "id": 1002,
+    "name": "Store Three",
+    "status": 1
   },
   {
-    "storeNumber": 1002,
-    "driveThru": false
+    "id": 1003,
+    "name": "Store Four",
+    "status": 2
   },
   {
-    "storeNumber": 1003,
-    "driveThru": true
-  },
-  {
-    "storeNumber": 1004,
-    "driveThru": false
+    "id": 1004,
+    "name": "Store Five",
+    "status": 1
   }
 ]

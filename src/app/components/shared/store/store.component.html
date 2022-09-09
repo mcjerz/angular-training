@@ -1,3 +1,7 @@
 <div class="store">
-<p>{{store?.storeNumber}}</p>
+  <p (click)="onStoreSelected()">
+  {{store?.storeNumber}} {{store?.name}}
+</p>
+<p>{{store?.status}}</p>
+
 </div>

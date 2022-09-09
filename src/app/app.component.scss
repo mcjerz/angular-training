@@ -1,0 +1,42 @@
+div.container {
+  padding: 24px 16px;
+  min-height: 280px;
+
+}
+
+nz-layout {
+  border: 10px solid cadetblue;
+}
+
+logo {
+  width: 120px;
+  height: 31px;
+  background: rgba(255, 255, 255, 0.2);
+  margin: 16px 24px 16px 0;
+  float: left;
+}
+
+nz-header, [nz-menu] {
+  line-height: 64px;
+  background-color: cadetblue;
+  color: #000;
+}
+
+nz-content {
+  padding: 0 50px;
+  background-color: #fcc;
+}
+
+nz-footer {
+  display: flex;
+  text-align: center;
+  background-color: cadetblue;
+  justify-content: flex-end;
+
+  ul > li::after {
+    color: #000;
+  }
+}
+
+
+
